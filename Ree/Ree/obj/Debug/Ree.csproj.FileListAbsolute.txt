@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\bin\Debug\Ree.exe.config
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\bin\Debug\Ree.exe
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\bin\Debug\Ree.pdb
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\obj\Debug\Ree.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\obj\Debug\Ree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\obj\Debug\Ree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\obj\Debug\Ree.exe
+C:\Users\Dell\source\repos\Ree_tik\Ree\Ree\obj\Debug\Ree.pdb
